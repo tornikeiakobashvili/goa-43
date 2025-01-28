@@ -2,4 +2,5 @@
 name = ("tornike")
 surname = ("iakobashvili")
 
+#აქ გავაკეთე კონკატინაცია ჩემს სახელს დაუმატე ჩემი გვარი
 print(name + " " + surname )
